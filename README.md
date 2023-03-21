@@ -2,9 +2,9 @@
 
 |**Course number:** | CS 1400                      |
 |-------------------|------------------------------|
-|**Instructor:**    | Anuar Assamidanov            |
-|**Email:**         | aassamidanov@cpp.edu         |
-|**Class times:**   | MW 10:00-11:50 pm            |
+|**Instructor:**    | Ericsson Santana Marin       |
+|**Email:**         | santanamarin@cpp.edu         |
+|**Class times:**   | TTh 10:00-11:50 pm           |
 |**Class location:**| 3-2636                       |
 
 ### Labs:
