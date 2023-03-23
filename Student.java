@@ -29,7 +29,7 @@ public class Student {
 
     /**
      * The getFirstName method returns the student's first name.
-     * @return firstName the student's first name
+     * @return the student's first name
      */
     public String getFirstName() {
         return firstName;
@@ -37,7 +37,7 @@ public class Student {
 
     /**
      * The getLastName method returns the student's last name.
-     * @return lastName the student's last name
+     * @return the student's last name
      */
     public String getLastName() {
         return lastName;
@@ -45,7 +45,7 @@ public class Student {
 
     /**
      * The getFullName method returns the student's full name.
-     * @return fullName the student's full name
+     * @return the student's full name
      */
     public String getFullName() {
         return fullName;
@@ -53,7 +53,7 @@ public class Student {
 
     /**
      * The getBroncoId method returns the student's BroncoID.
-     * @return broncoId the student's BroncoID
+     * @return the student's BroncoID
      */
     public String getBroncoId() {
         return broncoId;
@@ -61,7 +61,7 @@ public class Student {
 
     /**
      * The getGrade method returns the student's current grade.
-     * @return grade the student's current grade
+     * @return the student's current grade
      */
     public double getGrade() {
         return grade;

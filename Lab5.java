@@ -50,14 +50,22 @@ public class Lab5 {
         System.out.println("Making a program record\n...[" + program1 + "]");
         
         // Produce a report with the information below by using a helper method. The specification is provided in the UML class diagram
+        makeReport(program1);
+    }
+
+    /**
+     * The makeReport method takes in a Program object as a parameter and prints the submission details for that program.
+     * @param program the program object to print the submission details for
+     */
+    public static void makeReport(Program program) {
         System.out.println("\n========== Program Submission Detail ==========");
-        System.out.println(String.format("%-12s: %-10s", "Student", program1.getAuthor().getFullName()));
-        System.out.println(String.format("%-12s: %-10s", "Bronco ID", program1.getAuthor().getBroncoId()));
-        System.out.println(String.format("%-12s: %-10s", "Grade", "" + program1.getAuthor().getGrade()));
+        System.out.println(String.format("%-12s: %-10s", "Student", program.getAuthor().getFullName()));
+        System.out.println(String.format("%-12s: %-10s", "Bronco ID", program.getAuthor().getBroncoId()));
+        System.out.println(String.format("%-12s: %-10s", "Grade", "" + program.getAuthor().getGrade()));
         System.out.println("");
-        System.out.println(String.format("%-12s: %-10s", "Program", program1.getProgramName()));
-        System.out.println(String.format("%-12s: %-10s", "Filename", program1.getFileName()));
-        System.out.println(String.format("%-12s: %-10s", "Description", program1.getDescription()));
-        System.out.println(String.format("%-12s: %-10s", "Datetime", program1.getCreatedDate()));
+        System.out.println(String.format("%-12s: %-10s", "Program", program.getProgramName()));
+        System.out.println(String.format("%-12s: %-10s", "Filename", program.getFileName()));
+        System.out.println(String.format("%-12s: %-10s", "Description", program.getDescription()));
+        System.out.println(String.format("%-12s: %-10s", "Datetime", program.getCreatedDate()));
     }
 }

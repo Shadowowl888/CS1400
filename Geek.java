@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------
  * AUTHOR: Devin Khun
  * FILENAME: Geek.java
- * SPECIFICATION: 
+ * SPECIFICATION: The Geek class contains methods to be used by the user in Assignment5.java.
  * FOR: CS 1400 - ASSIGNMENT #5
  * TIME SPENT: 30 mins
 //-------------------------------------------------------------*/
@@ -20,6 +20,7 @@ public class Geek {
 
     /**
      * The getName method returns the name of the geek.
+     * @return the name of the geek
      */
     public String getName() {
         return name;
@@ -27,7 +28,7 @@ public class Geek {
 
     /**
      * The getNumberOfQuestions method returns the number of requests asked by the user.
-     * @return numQuestions number of requests made by the user
+     * @return number of requests made by the user
      */
     public int getNumberOfQuestions() {
         return numQuestions;
