@@ -4,8 +4,8 @@
 |-------------------|------------------------------|
 |**Instructor:**    | Ericsson Santana Marin       |
 |**Email:**         | santanamarin@cpp.edu         |
-|**Class times:**   | TTh 10:00-11:50 pm           |
-|**Class location:**| 3-2636                       |
+|**Class Times:**   | TTh 10:00-11:50 pm           |
+|**Class Location:**| 3-2636                       |
 
 ### Labs:
 
@@ -14,6 +14,7 @@
   * **Lab 3:** Loops
   * **Lab 4:** Methods
   * **Lab 5:** Classes
+  * **Lab 6:** Arrays and ArrayList
 
 ### Assignments:
 
@@ -22,3 +23,4 @@
   * **Assignment 3:** Loops
   * **Assignment 4:** Methods
   * **Assignment 5:** Classes
+  * **Assignment 6:** Arrays and ArrayList
