@@ -16,6 +16,8 @@
   * **Lab 5:** Classes
   * **Lab 6:** Arrays and ArrayList
   * **Lab 7:** Searching & Sorting Algorithms
+  * **Lab 8:** Inheritance
+  * **Lab 9:** Recursion & Wrapper Classes
 
 ### Assignments:
 
@@ -25,6 +27,8 @@
   * **Assignment 4:** Methods
   * **Assignment 5:** Classes
   * **Assignment 6:** Arrays and ArrayList
+  * **Assignment 7:** Inheritance
+  * **Assignment 8:** Recursion
 
 ### Lectures:
 
@@ -37,3 +41,6 @@
   * **Lecture 7:** Arrays and ArrayList
   * **Lecture 8:** Searching and Sorting Algorithms
   * **Lecture 9:** Inheritance and Polymorphism
+  * **Lecture 10:** Recursion
+  * **Lecture 11:** Text Processing and Wrapper Classes
+  * **Lecture 12:** Exceptions and File I/O
